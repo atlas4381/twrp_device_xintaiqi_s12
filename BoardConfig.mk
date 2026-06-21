@@ -1,4 +1,4 @@
-DEVICE_PATH := device/xintaiqi/uws6152_1h10_go
+DEVICE_PATH := device/xintaiqi/s12
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -71,7 +71,7 @@ TW_EXTRA_LANGUAGES := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_DEFAULT_LANGUAGE := zh_CN
 TW_USE_TOOLBOX := true
-TW_DEVICE_VERSION := S16B by Atlas4381
+TW_DEVICE_VERSION := S12 by Atlas4381
 TW_EXCLUDE_TWRPAPP := true
 TW_EXCLUDE_DEFAULT_USB_INIT := true
 
